@@ -1,17 +1,19 @@
 ---
-title: My Site
+title: Writer 1st, Technologist 0th
 toc: false
 ---
 
-This is the landing page.
+## Intro
 
-## Explore
+<img src="profile.png" alt="Description of the image" width="256">
+
+## On This Site
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
   {{< card link="about" title="About" icon="user" >}}
+  {{< card link="portfolio" title="Portfolio" icon="book-open" >}}
+  {{< card link="blog" title="Blog" icon="book-open" >}}
+  {{< card link="contact" title="Contact" icon="book-open" >}}
 {{< /cards >}}
 
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+## Recent Posts
