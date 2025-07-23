@@ -1,4 +1,5 @@
 # Hugo configuration file
+baseURL: "https://gailhantson.com"
 title: Gail H. | Technical Writer
 
 # import hextra as module
@@ -21,8 +22,8 @@ menu:
     - name: About
       pageRef: /about
       weight: 1
-    - name: Portfolio
-      pageRef: /portfolio
+    - name: Tech Writing
+      pageRef: /tech_writing
       weight: 2
     - name: Blog
       pageRef: /blog
@@ -39,8 +40,17 @@ menu:
       url: "https://github.com/gailhantson"
       params:
         icon: github
+    - name: Linkedin
+      weight: 5
+      url: "https://linkedin.com/in/gail-hantson"
+      params:
+        icon: linkedin
 
 params:
+  page:
+    # full (100%), wide (90rem), normal (1280px)
+    width: normal
+
   navbar:
     displayTitle: true
     displayLogo: false
@@ -53,8 +63,27 @@ params:
     enable: true
     base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
   
+  blog:
+    list:
+      displayTags: true
+      # date | lastmod | publishDate | title | weight
+      sortBy: date
+      sortOrder: desc # or "asc"
+
+    article:
+      displayPagination: true
+
   theme:
     # light | dark | system
     default: light
     displayToggle: false
 
+  displayUpdatedDate: true
+  dateFormat: "January 2, 2006"
+
+  search:
+    enable: true
+    type: flexsearch
+
+  flexsearch:
+    index: content

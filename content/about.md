@@ -5,23 +5,40 @@ type: about
 
 <a title="sOER Frank, CC BY 2.0 &lt;https://creativecommons.org/licenses/by/2.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Searching_for_the_right_way.png"><img width="128" alt="A person looks at a map on which a path is marked" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Searching_for_the_right_way.png?20230208093548"></a>
 
-## Intro
+## I'm Gail, and I'm a writer 1st, and a technologist 0th.
 
-## Background
+I care about finding technology that creates real value. I like real tools that solve real problems and make meaningful differences in the lives of real people. What drives me is helping *you* learn to use those technologies, understand them, and build something valuable with your new skillset. My skills in [technical communication](/technical_communication) help me do just that.
 
-### Experience
+Most recently, I worked on documentation for a disaster recovery and security solution in enterprise data storage. My role was to write clear content to help IT professionals protect critical data and respond quickly when it mattered most. Internally, I helped implement [Docs-as-Code](/docs_as_code) technologies and techniques, with the aim of increasing contributions and building a more collaborative documentation culture. Collaborative approaches like these strengthen our ability to deliver dependable systems that support our collective resilience.
 
-### Education
+Currently, I write technical articles, blog posts, and documentation focused on self-hosted and homelab systems. My goal is to help technically curious people like you get more from your existing technology, reduce e-waste, and build reliable, personalized setups.
 
-- The Multiverse School
-- Teach Yourself Computer Science
-- #100Devs
+I'm open to opportunities where I can use my skills in technical writing to help teams create more effective content, and empower users to do more with the tools they love. Check out the [Contact](/contact) page to get in touch.
 
-## Details
+## Experience
 
-### Mission
+### Docs-as-Code Migration
 
-I'm on a mission to create or improve one million words of documentation for open-source projects.
+*Contract*</br>
+*December 2023 - June 2025*
+
+### Developer
+
+*Freelance, Independent, and Volunteer*</br>
+*2022 - Present*
+
+### Writer
+
+*Freelance, Independent, and Volunteer*</br>
+*before 2020 - Present*
+
+## Education
+
+- [The Multiverse School](https://themultiverse.school/)
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [#100Devs](https://leonnoel.com/100devs/)
+
+## More Details
 
 ### Interests
 
@@ -34,5 +51,5 @@ I'm on a mission to create or improve one million words of documentation for ope
 ### Portfolio
 
 {{< cards >}}
-  {{< card link="/portfolio" title="A Technical Writing Portfolio" image="https://upload.wikimedia.org/wikipedia/commons/2/23/Collecting_ideas_for_brainstorming.png" >}}
+  {{< card link="/tech_writing" title="A Technical Writing Portfolio" image="https://upload.wikimedia.org/wikipedia/commons/2/23/Collecting_ideas_for_brainstorming.png" >}}
 {{< /cards >}}

@@ -1,8 +1,8 @@
 ---
-title: Stack
+title: Tools
 type: docs
-prev: portfolio/process/publishing
-next: portfolio/skills
+prev: tech_writing/process/publishing
+next: tech_writing/skills
 sidebar:
   open: true
 weight: 4
@@ -17,8 +17,6 @@ weight: 4
 ## Utilities
 
 ### Git
-
-### Docker
 
 ### Syncthing
 
