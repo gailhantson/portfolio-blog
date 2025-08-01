@@ -13,7 +13,7 @@ params:
 {{< callout type="warning" emoji="🚧" >}}
   **This portfolio is under construction!**
   
-  Thank you for stopping by! I decided to stop being a perfectionist scaredy-cat and publish my portfolio while I'm still working on it. That means some sections are still empty or unfinished... In the meantime, if you're here and you have questions about a missing piece, reach out!
+  Thank you for stopping by! I decided to publish my portfolio while I'm still working on it. Some sections are still empty or unfinished... In the meantime, if you have questions about a missing piece, reach out!
 {{< /callout >}}
 
 
