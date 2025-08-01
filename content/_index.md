@@ -10,12 +10,19 @@ params:
   author: Gail Hantson
 ---
 
+{{< callout type="warning" emoji="🚧" >}}
+  **This portfolio is under construction!**
+  
+  Thank you for stopping by! I decided to stop being a perfectionist scaredy-cat and publish my portfolio while I'm still working on it. That means some sections are still empty or unfinished... In the meantime, if you're here and you have questions about a missing piece, reach out!
+{{< /callout >}}
+
+
 ## I'm a writer 1st, technologist 0th
 
 <div style="display: flex; align-items: center;">
   <img src="profile.png" alt="Description of the image" width="256">
   <p style="margin-left: 16px;">
-    I am a <b>tech writer</b>, <b>tinkerer</b>, and <b>open-source technologist</b> living and working on Planet Earth 🌎 </br> </br> I am excited to work on international projects doing good writing for great technology.
+    I am a <b>tech writer</b>, <b>tinkerer</b>, and <b>open-source technologist</b> living and working on Planet Earth 🌎 </br> </br> I am excited to continue my work on international projects doing good writing for great technology.
   </p>
 </div>
 
@@ -30,9 +37,19 @@ params:
 
 ## Portfolio Highlights
 
-### API Docs
-
 ### Docs-as-Code
+
+[Homelab Documentation](/tech_writing/projects/docs_as_code#homelab-documentation)
+
+[Docs-as-Code Migration](/tech_writing/projects/docs_as_code#docs-as-code-migration)
+
+[A Docs-as-Code Portfolio](/tech_writing/projects/docs_as_code#a-docs-as-code-portfolio)
+
+### Technical Articles
+
+[A Practical Guide to the Linux Filesystem](/tech_writing/projects/articles#a-practical-guide-to-the-linux-filesystem)
+
+[How to Read and Understand a Linux Command](/tech_writing/projects/articles#how-to-read-and-understand-a-linux-command)
 
 ### Full Portfolio
 

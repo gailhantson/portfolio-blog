@@ -1,6 +1,6 @@
 ---
 title: Homelab Series - Install Debian
-date: 2025-07-18
+date: 2025-07-21
 authors:
   - name: gailhantson
     link: https://github.com/gailhantson

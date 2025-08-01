@@ -7,13 +7,15 @@ type: about
 
 ## I'm Gail, and I'm a writer 1st, and a technologist 0th.
 
-I care about finding technology that creates real value. I like real tools that solve real problems and make meaningful differences in the lives of real people. What drives me is helping *you* learn to use those technologies, understand them, and build something valuable with your new skillset. My skills in [technical communication](/technical_communication) help me do just that.
+I care about finding technology that creates real value. I like real tools that solve real problems and make meaningful differences in the lives of real people. What drives me is helping *you* learn to use those technologies, understand them, and build something valuable with your new skillset. My skills in technical communication help me do just that.
 
-Most recently, I worked on documentation for a disaster recovery and security solution in enterprise data storage. My role was to write clear content to help IT professionals protect critical data and respond quickly when it mattered most. Internally, I helped implement [Docs-as-Code](/docs_as_code) technologies and techniques, with the aim of increasing contributions and building a more collaborative documentation culture. Collaborative approaches like these strengthen our ability to deliver dependable systems that support our collective resilience.
+Most recently, I worked on documentation for a disaster recovery and security solution in enterprise data storage. My role was to write clear content to help IT professionals protect critical data and respond quickly when it mattered most. Internally, I helped implement Docs-as-Code technologies and techniques, with the aim of increasing contributions and building a more collaborative documentation culture.
 
 Currently, I write technical articles, blog posts, and documentation focused on self-hosted and homelab systems. My goal is to help technically curious people like you get more from your existing technology, reduce e-waste, and build reliable, personalized setups.
 
-I'm open to opportunities where I can use my skills in technical writing to help teams create more effective content, and empower users to do more with the tools they love. Check out the [Contact](/contact) page to get in touch.
+I'm open to opportunities where I can use my skills in technical writing to help teams create more effective content, and empower users to do more with the tools they love. 
+
+Check out the [Contact](/contact) page to get in touch.
 
 ## Experience
 

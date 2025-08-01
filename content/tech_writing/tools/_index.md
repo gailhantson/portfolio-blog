@@ -8,20 +8,36 @@ sidebar:
 weight: 4
 ---
 
-## Operating System
+I prefer free, lightweight, stable, and well-documented tools that are easy to learn and understand. 
 
-### Debian
+Not everything is simple at first, but it definitely gets easier when you pick a good tool and stick with it.
 
-### Linux Mint Debian Edition
+## Operating Systems
+- Debian
+- LMDE (Linux Mint Debian Edition)
 
-## Utilities
+## Development
+- Git
+- GitHub / GitLab
+- CI/CD tools (ex. GitHub Actions)
+- Static Site Generators (Docusaurus, Hugo, Jekyll, Mkdocs)
 
-### Git
+## Writing
+- Markdown
+- Docs-as-Code workflows
+- Technical writing style guides
+- Technical writing templates
 
-### Syncthing
+## Editing
+- Linters
+- Spell checkers
 
-## Writing Tools
+## Publishing
+- Git-based publishing
+- Automated build & deploy (CI/CD pipelines)
+- Documentation hosting platforms
 
-### Markdown
-
-### Obsidian
+## Productivity
+- Command Line Tools
+- Note-taking with Markdown
+- Version control for docs

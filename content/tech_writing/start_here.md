@@ -22,21 +22,19 @@ I’ve organized this portfolio to reflect both what I’ve written and how I ap
 
 ---
 
-#### API Docs
-
-[API Docs Example](/tech_writing/projects/api_docs_example)
-
 #### Docs-as-Code
 
-[Docs-as-Code Migration](/tech_writing/projects/docs_as_code)
+[Homelab Documentation](/tech_writing/projects/docs_as_code#homelab-documentation)
 
-[This Site Is Built With...](/tech_writing/#this-site-is-built-with)
+[Docs-as-Code Migration](/tech_writing/projects/docs_as_code#docs-as-code-migration)
+
+[A Docs-as-Code Portfolio](/tech_writing/projects/docs_as_code#a-docs-as-code-portfolio)
 
 #### Technical Articles
 
-{{< cards cols="1" >}}
-  {{< card link="/blog/homelab_install_debian" title="Homelab Series - Install Debian" subtitle="">}}
-{{< /cards >}}
+[A Practical Guide to the Linux Filesystem](/tech_writing/projects/articles#a-practical-guide-to-the-linux-filesystem)
+
+[How to Read and Understand a Linux Command](/tech_writing/projects/articles#how-to-read-and-understand-a-linux-command)
 
 ### Writing Process
 

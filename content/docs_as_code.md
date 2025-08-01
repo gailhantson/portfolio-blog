@@ -1,3 +1,0 @@
----
-title: Docs-as-Code
----
