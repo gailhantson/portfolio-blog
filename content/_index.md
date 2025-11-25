@@ -30,7 +30,7 @@ params:
 
 {{< cards cols="2">}}
   {{< card link="about" title="About" icon="user" >}}
-  {{< card link="portfolio" title="Tech Writing" icon="book-open" >}}
+  {{< card link="tech-writing" title="Tech Writing" icon="book-open" >}}
   {{< card link="blog" title="Blog" icon="collection" >}}
   {{< card link="contact" title="Contact" icon="cloud" >}}
 {{< /cards >}}
@@ -39,22 +39,22 @@ params:
 
 ### Docs-as-Code
 
-[Homelab Documentation](/tech_writing/projects/docs_as_code#homelab-documentation)
+[Homelab Documentation](/tech-writing/projects/docs_as_code#homelab-documentation)
 
-[Docs-as-Code Migration](/tech_writing/projects/docs_as_code#docs-as-code-migration)
+[Docs-as-Code Migration](/tech-writing/projects/docs_as_code#docs-as-code-migration)
 
-[A Docs-as-Code Portfolio](/tech_writing/projects/docs_as_code#a-docs-as-code-portfolio)
+[A Docs-as-Code Portfolio](/tech-writing/projects/docs_as_code#a-docs-as-code-portfolio)
 
 ### Technical Articles
 
-[A Practical Guide to the Linux Filesystem](/tech_writing/projects/articles#a-practical-guide-to-the-linux-filesystem)
+[A Practical Guide to the Linux Filesystem](/tech-writing/projects/articles#a-practical-guide-to-the-linux-filesystem)
 
-[How to Read and Understand a Linux Command](/tech_writing/projects/articles#how-to-read-and-understand-a-linux-command)
+[How to Read and Understand a Linux Command](/tech-writing/projects/articles#how-to-read-and-understand-a-linux-command)
 
 ### Full Portfolio
 
 {{< cards >}}
-  {{< card link="/tech_writing" title="A Technical Writing Portfolio" image="https://upload.wikimedia.org/wikipedia/commons/2/23/Collecting_ideas_for_brainstorming.png" >}}
+  {{< card link="/tech-writing" title="A Technical Writing Portfolio" image="https://upload.wikimedia.org/wikipedia/commons/2/23/Collecting_ideas_for_brainstorming.png" >}}
 {{< /cards >}}
 
 ## Blog Posts

@@ -1,8 +1,8 @@
 ---
 title: Writing Process
 type: docs
-prev: tech_writing/projects/articles
-next: tech_writing/process/writing
+prev: tech-writing/projects/articles
+next: tech-writing/process/writing
 sidebar:
   open: true
 weight: 3

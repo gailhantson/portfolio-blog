@@ -1,8 +1,8 @@
 ---
 title: Publishing
 type: docs
-prev: tech_writing/process/editing
-next: tech_writing/tools
+prev: tech-writing/process/editing
+next: tech-writing/tools
 sidebar:
   open: true
 weight: 5

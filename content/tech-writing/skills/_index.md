@@ -1,7 +1,7 @@
 ---
 title: Skills
 type: docs
-prev: tech_writing/tools
+prev: tech-writing/tools
 next: /contact
 sidebar:
   open: true

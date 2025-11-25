@@ -25,7 +25,7 @@ menu:
       pageRef: /about
       weight: 1
     - name: Tech Writing
-      pageRef: /tech_writing
+      pageRef: /tech-writing
       weight: 2
     - name: Blog
       pageRef: /blog

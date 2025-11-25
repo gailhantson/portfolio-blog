@@ -1,8 +1,8 @@
 ---
 title: Tools
 type: docs
-prev: tech_writing/process/publishing
-next: tech_writing/skills
+prev: tech-writing/process/publishing
+next: tech-writing/skills
 sidebar:
   open: true
 weight: 4

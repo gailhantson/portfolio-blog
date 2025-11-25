@@ -53,6 +53,6 @@ Check out the [Contact](/contact) page to get in touch.
 ### Portfolio
 
 {{< cards >}}
-  {{< card link="/tech_writing" title="A Technical Writing Portfolio" image="https://upload.wikimedia.org/wikipedia/commons/2/23/Collecting_ideas_for_brainstorming.png" >}}
+  {{< card link="/tech-writing" title="A Technical Writing Portfolio" image="https://upload.wikimedia.org/wikipedia/commons/2/23/Collecting_ideas_for_brainstorming.png" >}}
 {{< /cards >}}
 

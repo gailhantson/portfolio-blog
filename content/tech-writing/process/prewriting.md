@@ -1,8 +1,8 @@
 ---
 title: Pre-writing
 type: docs
-prev: tech_writing/process/
-next: tech_writing/process/writing
+prev: tech-writing/process/
+next: tech-writing/process/writing
 sidebar:
   open: true
 weight: 2

@@ -1,8 +1,8 @@
 ---
 title: Technical Articles
 type: docs
-prev: tech_writing/projects/docs_as_code
-next: tech_writing/process
+prev: tech-writing/projects/docs_as_code
+next: tech-writing/process
 weight: 3
 ---
 

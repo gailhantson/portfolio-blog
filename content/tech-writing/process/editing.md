@@ -1,8 +1,8 @@
 ---
 title: Editing
 type: docs
-prev: tech_writing/process/writing
-next: tech_writing/process/publishing
+prev: tech-writing/process/writing
+next: tech-writing/process/publishing
 sidebar:
   open: true
 weight: 4

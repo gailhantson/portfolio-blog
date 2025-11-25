@@ -1,8 +1,8 @@
 ---
 title: Docs-as-Code
 type: docs
-prev: tech_writing/projects/api_docs
-next: tech_writing/projects/articles
+prev: tech-writing/projects/api_docs
+next: tech-writing/projects/articles
 weight: 2
 ---
 
@@ -57,5 +57,5 @@ Gif
 
 Description
 
-Link to more details - [This site is built with...](tech_writing#this-site-is-built-with)
+Link to more details - [This site is built with...](tech-writing#this-site-is-built-with)
 

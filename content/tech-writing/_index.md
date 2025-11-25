@@ -1,12 +1,12 @@
 ---
 title: A Technical Writing Portfolio
-next: tech_writing/introduction
+next: tech-writing/introduction
 weight: 1
 ---
 
 ## Start Over There
 
-When visiting this site from your desktop, the **Doodle Guy** below points to the table of contents on the left, to a link to the page [Start Here](/tech_writing/start_here). (On smaller screens, he's pointing to this paragraph, which includes two links to the page [Start Here](/tech_writing/start_here).)
+When visiting this site from your desktop, the **Doodle Guy** below points to the table of contents on the left, to a link to the page [Start Here](/tech-writing/start_here). (On smaller screens, he's pointing to this paragraph, which includes two links to the page [Start Here](/tech-writing/start_here).)
 
 <a title="sOER Frank, CC BY 2.0 &lt;https://creativecommons.org/licenses/by/2.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Surprised_Person_pointing.png"><img width="128" alt="Surprised looking human pointing at something" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Surprised_Person_pointing.png/256px-Surprised_Person_pointing.png?20230208093518" style="transform: scaleX(-1);"></a>
 

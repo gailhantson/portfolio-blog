@@ -2,7 +2,7 @@
 title: Start Here
 type: docs
 prev: /
-next: tech_writing/projects
+next: tech-writing/projects
 weight: 2
 ---
 
@@ -24,17 +24,17 @@ I’ve organized this portfolio to reflect both what I’ve written and how I ap
 
 #### Docs-as-Code
 
-[Homelab Documentation](/tech_writing/projects/docs_as_code#homelab-documentation)
+[Homelab Documentation](/tech-writing/projects/docs_as_code#homelab-documentation)
 
-[Docs-as-Code Migration](/tech_writing/projects/docs_as_code#docs-as-code-migration)
+[Docs-as-Code Migration](/tech-writing/projects/docs_as_code#docs-as-code-migration)
 
-[A Docs-as-Code Portfolio](/tech_writing/projects/docs_as_code#a-docs-as-code-portfolio)
+[A Docs-as-Code Portfolio](/tech-writing/projects/docs_as_code#a-docs-as-code-portfolio)
 
 #### Technical Articles
 
-[A Practical Guide to the Linux Filesystem](/tech_writing/projects/articles#a-practical-guide-to-the-linux-filesystem)
+[A Practical Guide to the Linux Filesystem](/tech-writing/projects/articles#a-practical-guide-to-the-linux-filesystem)
 
-[How to Read and Understand a Linux Command](/tech_writing/projects/articles#how-to-read-and-understand-a-linux-command)
+[How to Read and Understand a Linux Command](/tech-writing/projects/articles#how-to-read-and-understand-a-linux-command)
 
 ### Writing Process
 
@@ -59,6 +59,6 @@ I’ve organized this portfolio to reflect both what I’ve written and how I ap
 ---
 
 {{< cards >}}
-  {{< card link="/tech_writing/tools/" title="Tools" icon="desktop-computer" >}}
-  {{< card link="/tech_writing/skills/" title="Skills" icon="presentation-chart-bar" >}}
+  {{< card link="/tech-writing/tools/" title="Tools" icon="desktop-computer" >}}
+  {{< card link="/tech-writing/skills/" title="Skills" icon="presentation-chart-bar" >}}
 {{< /cards >}}
