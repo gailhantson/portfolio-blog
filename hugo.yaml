@@ -1,6 +1,8 @@
 # Hugo configuration file
 baseURL: "https://gailhantson.com"
 title: Gail H. | Technical Writer
+relativeURLs: true
+canonifyURLs: true
 
 # import hextra as module
 module:
