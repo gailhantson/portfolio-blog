@@ -10,21 +10,8 @@ type: contact
 </br>
 </br>
 
-The best way to reach me is by sending me an email at gailhantson@hotmail.com or by contacting me on LinkedIn.
+The best way to reach me is by sending me an email at gailhantson@hotmail.com or by contacting me on [LinkedIn](https://www.linkedin.com/in/gail-hantson/.
 
 </br>
-</br>
-
-<div style="width: 100%; display: flex; justify-content: center;">
-  <div class="badge-base LI-profile-badge"
-       style="transform: translateX(0px);"
-       data-locale="en_US"
-       data-size="large"
-       data-theme="light"
-       data-type="HORIZONTAL"
-       data-vanity="gail-hantson"
-       data-version="v1">
-  </div>
-</div>
 
 </div>
