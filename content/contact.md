@@ -11,7 +11,3 @@ type: contact
 </br>
 
 The best way to reach me is by sending me an email at gailhantson@hotmail.com or by contacting me on [LinkedIn](https://www.linkedin.com/in/gail-hantson/.
-
-</br>
-
-</div>
