@@ -12,7 +12,7 @@ type: contact
 </br>
 </br>
 
-The best way to reach me is by sending me an email at gailhantson@gmail.com or by contacting me on LinkedIn.
+The best way to reach me is by sending me an email at gailhantson@hotmail.com or by contacting me on LinkedIn.
 
 </br>
 </br>
