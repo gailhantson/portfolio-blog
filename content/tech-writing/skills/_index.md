@@ -8,6 +8,13 @@ sidebar:
 weight: 5
 ---
 
+{{< callout type="warning" emoji="🚧" >}}
+  **This portfolio is under construction!**
+  
+  Thank you for stopping by! I decided to publish my portfolio while I'm still working on it. Some sections are still empty or unfinished... In the meantime, if you have questions about a missing piece, reach out!
+{{< /callout >}}
+
+
 Here’s where I’m solid, and where I build a little every day to get better at what I do. These skills write clear docs and keep my systems running.
 
 ## Systems

@@ -4,6 +4,12 @@ next: tech-writing/introduction
 weight: 1
 ---
 
+{{< callout type="warning" emoji="🚧" >}}
+  **This portfolio is under construction!**
+  
+  Thank you for stopping by! I decided to publish my portfolio while I'm still working on it. Some sections are still empty or unfinished... In the meantime, if you have questions about a missing piece, reach out!
+{{< /callout >}}
+
 ## Start Over There
 
 When visiting this site from your desktop, the **Doodle Guy** below points to the table of contents on the left, to a link to the page [Start Here](/tech-writing/start_here). (On smaller screens, he's pointing to this paragraph, which includes two links to the page [Start Here](/tech-writing/start_here).)

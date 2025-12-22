@@ -22,7 +22,7 @@ params:
 <div style="display: flex; align-items: center;">
   <img src="profile.png" alt="Description of the image" width="256">
   <p style="margin-left: 16px;">
-    I am a <b>tech writer</b>, <b>tinkerer</b>, and <b>open-source technologist</b> living and working on Planet Earth 🌎 </br> </br> I am excited to continue my work on international projects doing good writing for great technology.
+    I am a <b>technical writer</b>, <b>tinkerer</b>, and <b>open-source technologist</b> living and working on Planet Earth 🌎 </br> </br> I am excited to continue my work on international projects doing good writing for great technology.
   </p>
 </div>
 
@@ -55,10 +55,4 @@ params:
 
 {{< cards >}}
   {{< card link="/tech-writing" title="A Technical Writing Portfolio" image="https://upload.wikimedia.org/wikipedia/commons/2/23/Collecting_ideas_for_brainstorming.png" >}}
-{{< /cards >}}
-
-## Blog Posts
-
-{{< cards cols="3" >}}
-  {{< card link="/blog/homelab_install_debian" title="How to Set Up a Local DNS and DHCP Server on Debian" subtitle="" image="/blog/thumbnails/dns_and_dhcp_debian.jpg" method="Fit" options="200x200">}}
 {{< /cards >}}

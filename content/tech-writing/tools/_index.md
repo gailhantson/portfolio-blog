@@ -8,6 +8,13 @@ sidebar:
 weight: 4
 ---
 
+{{< callout type="warning" emoji="🚧" >}}
+  **This portfolio is under construction!**
+  
+  Thank you for stopping by! I decided to publish my portfolio while I'm still working on it. Some sections are still empty or unfinished... In the meantime, if you have questions about a missing piece, reach out!
+{{< /callout >}}
+
+
 I prefer free, lightweight, stable, and well-documented tools that are easy to learn and understand. 
 
 Not everything is simple at first, but it definitely gets easier when you pick a good tool and stick with it.
