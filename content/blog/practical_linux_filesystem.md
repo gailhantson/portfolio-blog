@@ -5,7 +5,7 @@ authors:
   - name: gailhantson
     link: https://github.com/gailhantson
     image: https://avatars.githubusercontent.com/u/146262022?v=4
-summary: Summary here.
+summary: A practical, investigative guide to how the Linux filesystem behaves in everyday use. Instead of memorizing rules, this article focuses on observable patterns to help you understand what’s safe to change, what might break, and how to reason about filesystem problems on real systems.
 
 ---
 
@@ -15,11 +15,9 @@ summary: Summary here.
 
 This guide is practical because I want to understand how the Linux filesystem works in everyday use. The goal is to understand it well enough to stop guessing when something goes wrong.
 
-I am writing this article as an investigation. It follows my process of learning how the filesystem behaves as I use it, rather than trying to explain every detail or rule.
+I am writing this article as an investigation. Instead of trying to explain every filesystem detail, I document what I observe while using a running Linux system: where files actually live, how programs place their data, and what changes when something breaks. The emphasis is on behavior, not theory.
 
-This approach is especially useful in a homelab, where small mistakes can break services or erase data. Understanding where things live and who owns them makes systems easier to rebuild and maintain.
-
-Sources I used while learning are linked throughout the guide. The focus is on what I can observe and test on a running Linux system.
+This approach is especially useful in a homelab or self-managed system, where mistakes are part of the learning process and failures are visible. When services stop working, disks fill up, or permissions block access, the filesystem usually provides clues. Learning how to read those clues makes systems easier to rebuild, debug, and maintain.
 
 To begin, it helps to be clear about what I mean by the term “Linux filesystem.”
 
@@ -168,6 +166,8 @@ I use Linux in a homelab, where systems are changed and rebuilt often. In this s
 
 When file locations are clear, it is easier to know what to back up. Personal data and configuration files usually matter most, while many system files can be replaced.
 
+<a title="Albert György, CC BY 4.0 &lt;https://creativecommons.org/licenses/by/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:T460_angled.jpg"><img width="512" alt="Lenovo ThinkPad T460 45˚" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/T460_angled.jpg/512px-T460_angled.jpg?20220206115249"></a>
+
 The filesystem also shows what is safe to remove. Logs, caches, and temporary files are often disposable. Knowing this prevents unnecessary caution.
 
 This knowledge makes rebuilding systems easier. I can restore only what matters and allow the rest to be recreated.
@@ -176,11 +176,8 @@ Clear filesystem boundaries also support cleaner system design. Services can be 
 
 ## What You Can Now Predict
 
-After writing and testing this guide, I can look at a file path and make better guesses. I can tell who is responsible for it, whether it is safe to touch, and what might break if it is removed.
+After working through this guide and testing these ideas on real systems, the Linux filesystem becomes easier to reason about. A file path is no longer just a location—it hints at who owns the file, why it exists, and what might be affected if it changes.
 
-Linux still has complexity, but it no longer feels random. The filesystem provides clues, and those clues explain much of what the system is doing.
+You may not know exactly how every program works, but you can make better predictions. You can tell which files are safe to modify, which ones should be backed up, and which ones are likely to be recreated automatically. When errors occur, their location often points directly to the underlying cause.
 
-## References Used in This Investigation
-
-- Articles, wikis, videos
-- How to keep learning beyond this guide
+Linux still has complexity, but it does not have to feel arbitrary. The filesystem reflects responsibility and intent, and those patterns repeat across systems and distributions. By learning to read those patterns, troubleshooting becomes less about trial and error and more about understanding what the system is telling you.

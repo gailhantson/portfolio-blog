@@ -163,11 +163,6 @@ The sections are organized around questions a user might ask. The outline emphas
 - What breaks if it disappears
 - Why Linux is behaving the way it is
 
-### References Used in This Investigation
-
-- Articles, wikis, videos
-- How to keep learning beyond this guide
-
 ## What changed?
 
 The outline was rewritten to reduce scope and remove unnecessary detail. Topics that required deep background knowledge were removed or de-emphasized.
