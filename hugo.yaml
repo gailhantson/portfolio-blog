@@ -47,7 +47,26 @@ menu:
       url: "https://linkedin.com/in/gail-hantson"
       params:
         icon: linkedin
+    - identifier: topics
+      name: Topics
+    - identifier: semanticweb
+      name: Semantic Web
+      url: /topics/semantic-web
+      parent: topics
+    - identifier: schemaorg
+      name: Schema.org
+      url: /topics/schemaorg
+      parent: topics
+    - identifier: knowledgegraphs
+      name: Knowledge Graphs
+      url: /topics/knowledge-graphs
+      parent: topics
+    - identifier: systems
+      name: Learning Systems Without Guessing
+      url: /systems
 
+
+      
 params:
   page:
     # full (100%), wide (90rem), normal (1280px)
