@@ -1,6 +1,6 @@
 # Hugo configuration file
 baseURL: "https://gailhantson.com"
-title: Gail H. | Technical Writer
+title: Gail Hantson
 relativeURLs: true
 canonifyURLs: true
 
@@ -24,26 +24,29 @@ menu:
     - name: About
       pageRef: /about
       weight: 1
-    - name: Tech Writing
+    - name: Portfolio
       pageRef: /tech-writing
-      weight: 2
+      weight: 3
     - name: Blog
       pageRef: /blog
-      weight: 3
+      weight: 2
+    - name: Services
+      url: /services
+      weight: 4
     - name: Contact ↗
       url: /contact
-      weight: 3
+      weight: 5
     - name: Search
-      weight: 4
+      weight: 6
       params:
         type: search
     - name: GitHub
-      weight: 5
+      weight: 7
       url: "https://github.com/gailhantson"
       params:
         icon: github
     - name: Linkedin
-      weight: 5
+      weight: 7
       url: "https://linkedin.com/in/gail-hantson"
       params:
         icon: linkedin
@@ -62,8 +65,9 @@ menu:
       url: /topics/knowledge-graphs
       parent: topics
     - identifier: systems
-      name: Learning Systems Without Guessing
+      name: Learn Systems Without Guessing
       url: /systems
+      
 
 
       
